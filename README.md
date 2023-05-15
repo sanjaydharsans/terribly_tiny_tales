@@ -17,12 +17,16 @@ Dependencies:
 
 Fetch : 
 In React, fetch is frequently used to retrieve data from a server and update the state of the component as necessary. With the aid of React Hooks like useState or useEffect, it can be used within lifecycle methods or functional components.
+
 Blob :
 A built-in browser API known as the Blob object in React is used to represent immutable raw data. It enables memory-efficient creation and manipulation of binary data, including files and huge data collections. In React apps, the Blob object is frequently used in conjunction with other APIs like fetch or FileReader to handle binary data.
 In React applications, the Blob object offers a flexible and effective approach to work with binary data. It makes it possible to manage file uploads, download files, or communicate with APIs that handle binary data.
+
 Plugins:
+
 Npm : 
 Installing the appropriate Node Package Manager (npm) plugin is the first step in starting a ReactJS website development project. This plugin offers a command to search an installed software repository. A significant collection of libraries like ReactJS components are available in Npm.
+
 Create react app :
 A boilerplate plugin called Create React App is available for developers who have just begun working with ReactJS development companies. This plugin makes it simple and quick to set up a working project, including a frontend build pipeline, structure, developer environment, and app optimisation for production.
 
